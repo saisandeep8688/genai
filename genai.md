@@ -1,3 +1,4 @@
+# Day 1 – Learning Tasks
 Human Intelligence
 **Human Intelligence** is the natural cognitive ability of humans to learn, understand, reason, adapt, and apply knowledge creatively and emotionally.
 
@@ -75,7 +76,7 @@ An AI system detecting fraud by analyzing millions of transactions in seconds.
 
 > **In short:** Humans think and feel, AI computes and predicts—together they create powerful solutions.
 
-
+# Day 2 – Learning Tasks
 
 # Neural Networks and Deep Learning 
 
